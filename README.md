@@ -1,24 +1,8 @@
-Tip Time - Solution Code
-=================================
-
-Solution code for the [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course): Tip Time app.
-
-
-Introduction
-------------
-The Tip Time app contains various UI elements for calculating a tip,
-teaching about user input, and State in Compose.
-
-
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-
-
-Getting Started
+La aplicación Tiempo de Propina contiene varios elementos de interfaz de usuario para calcular una propina, enseñar sobre la entrada del usuario y el estado en Compose.
+Para usar mi aplicación estas son las instrucciónes
+Introducción
 ---------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+1. Instale Android Studio si aún no lo tiene.
+2. Descargue el ejemplo.
+3. Importe el ejemplo a Android Studio.
+4. Compilar y ejecutar el ejemplo.
